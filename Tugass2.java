@@ -26,7 +26,8 @@ public class Tugass {
         
         }
         while (jenis != 0); {
-                System.out.println("Total: " + total);
-            }
+            System.out.println("Total: " + total);
+
+        } 
     }
 }
